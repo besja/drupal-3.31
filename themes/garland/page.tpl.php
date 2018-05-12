@@ -1,5 +1,3 @@
-<?php
-?>
   <?php print render($page['header']); ?>
 
   <div id="wrapper">
